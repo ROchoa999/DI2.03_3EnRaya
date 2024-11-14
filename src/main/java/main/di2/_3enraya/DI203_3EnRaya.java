@@ -11,6 +11,6 @@ package main.di2._3enraya;
 public class DI203_3EnRaya {
 
     public static void main(String[] args) {
-        System.out.println("Hola gente");
+        System.out.println("Hola genteeeee");
     }
 }
